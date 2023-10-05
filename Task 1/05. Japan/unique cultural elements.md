@@ -1,8 +1,10 @@
+[**<< Go back**](../../Task%20flow.md)
+
 # Japan
 
 Japan has a rich and unique cultural heritage, and its storefronts often reflect a blend of tradition, craftsmanship, and modern innovation. Here are some distinctive cultural elements associated with storefronts in Japan:
 
-1. **Noren Curtains**: Many traditional Japanese storefronts, especially in <mark>older neighborhoods</mark> and <<mark>ryokans (traditional inns)</mark>, feature noren `curtains hanging in the entrance`. These fabric dividers often bear the shop's name or logo and add a touch of traditional Japanese charm.
+1. **Noren Curtains**: Many traditional Japanese storefronts, especially in <mark>older neighborhoods</mark> and <mark>ryokans (traditional inns)</mark>, feature noren `curtains hanging in the entrance`. These fabric dividers often bear the shop's name or logo and add a touch of traditional Japanese charm.
 
 2. **Izakayas and Yakitori Stands**: <mark>Izakayas</mark> are traditional Japanese pubs, and <mark>yakitori</mark> stands are places specializing in skewered `grilled chicken`. These storefronts often have <mark>simple wooden facades</mark> and <mark>traditional lanterns</mark> (chochin) hanging outside.
 
@@ -37,3 +39,5 @@ Japan has a rich and unique cultural heritage, and its storefronts often reflect
 17. **Bonsai Nurseries**: Bonsai nurseries may have an assortment of miniature trees on display in their storefronts, showcasing the art of bonsai cultivation.
 
 These cultural elements associated with Japanese storefronts offer a glimpse into the country's deep-rooted traditions, culinary diversity, and appreciation for craftsmanship, all of which contribute to the unique charm of Japan's commercial spaces.
+
+[**<< Go back**](../../Task%20flow.md)

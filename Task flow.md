@@ -10,11 +10,11 @@
     
 - [X] Conduct in-depth research on each location to understand the <mark>unique cultural elements</mark> associated with their storefronts.
     - Selected Countries
-        - Italy [_see more_](https://www.usnews.com/news/best-countries/italy)
-        - France [_see more_](https://www.usnews.com/news/best-countries/france)
-        - United States [_see more_](https://www.usnews.com/news/best-countries/united-states)
-        - Spain [_see more_](https://www.usnews.com/news/best-countries/spain)
-        - Japan [_see more_](https://www.usnews.com/news/best-countries/japan)
+        - Italy [_see more_](./Task%201/01.%20Italy/unique%20cultural%20elements.md)
+        - France [_see more_](./Task%201/02.%20France/unique%20cultural%20elements.md)
+        - United States [_see more_](./Task%201/03.%20United%20States/unique%20cultural%20elements.md)
+        - Spain [_see more_](./Task%201/04.%20Spain/unique%20cultural%20elements.md)
+        - Japan [_see more_](./Task%201/05.%20Japan/unique%20cultural%20elements.md)
 
 - [ ] Select 5 unique storefronts from different cultural locations based on research.
     
