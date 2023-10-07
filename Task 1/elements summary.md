@@ -25,3 +25,38 @@
 - [ ] beautifully packaged sweets
 - [ ] chocolateries
  
+
+ # Spain
+- [ ] small plates at outdoor tables
+- [ ] traditional Flamenco dresses
+- [ ] wine
+- [ ] bottles on display
+- [ ] whole hams hanging
+- [ ] thick and rich hot chocolate
+- [ ] designed tiles
+- [ ] plates
+- [ ] ceramics
+- [ ] Olive oil
+- [ ] seafood
+- [ ] footwear
+- [ ] window displays
+- [ ] bullfighting memorabilia
+- [ ] flower arrangements
+
+
+ # Japan
+- [ ] curtains hanging in the entrance
+- [ ] older neighborhoods
+- [ ] grilled chicken
+- [ ] Tea
+- [ ] flower arrangements
+- [ ] sushi bar
+- [ ] wooden doors
+- [ ] Japanese clothing
+- [ ] Electronic storefronts
+- [ ] sake bottles on display
+- [ ] tatami mats
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 

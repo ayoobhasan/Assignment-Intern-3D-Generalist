@@ -16,15 +16,15 @@
         - Spain [_see more_](./Task%201/04.%20Spain/unique%20cultural%20elements.md)
         - Japan [_see more_](./Task%201/05.%20Japan/unique%20cultural%20elements.md)
 
-- [ ] Select 5 unique storefronts from different cultural locations based on research.
+- [X] Select 5 unique storefronts from different cultural locations based on research.
     
 - [ ] Prepare a document summarizing your research findings and the rationale for your selections.
 
 ## Task 2: Design and Rendering
 
-- [ ] Choose one storefront from your selected list for the render showcase.
-- [ ] Collect reference images and materials related to the selected storefront.
-- [ ] Create a 3D model of the selected storefront in a low-poly style.
+- [X] Choose one storefront from your selected list for the render showcase.
+- [X] Collect reference images and materials related to the selected storefront.
+- [X] Create a 3D model of the selected storefront in a low-poly style.
 - [ ] Texture and UV-map the 3D model to represent the cultural elements accurately.
 - [ ] Set up appropriate lighting conditions in the 3D scene to reflect the cultural location and time of day.
 - [ ] Render the 3D scene and ensure it is visually appealing and professional.
