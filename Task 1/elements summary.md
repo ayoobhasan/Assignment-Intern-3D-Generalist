@@ -35,9 +35,9 @@
 - [ ] Olive oil
 - [ ] seafood
 - [ ] footwear
-- [ ] window displays
+- [X] window displays
 - [ ] bullfighting memorabilia
-- [ ] flower arrangements
+- [X] flower arrangements
 
 
  # Japan
