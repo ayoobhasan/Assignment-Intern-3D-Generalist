@@ -11,3 +11,17 @@
 - [X] paintings
 - [x] ocal wines
 
+# France
+- [ ] bread, pastries, desserts
+- [ ] outdoor seating on the sidewalks
+- [ ] flowers
+- [ ] meats
+- [ ] significant part of French cuisin is cheese
+- [ ] fashion boutiques
+- [X] window displays showcasing
+- [ ] independent bookstores (librairies)
+- [ ] antique furniture
+- [ ] storefronts with inviting menus displayed on chalkboards
+- [ ] beautifully packaged sweets
+- [ ] chocolateries
+ 
