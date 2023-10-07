@@ -12,18 +12,14 @@
 - [x] ocal wines
 
 # France
-- [ ] bread, pastries, desserts
-- [ ] outdoor seating on the sidewalks
+- [X] bread, pastries, desserts
+- [X] outdoor seating on the sidewalks
 - [ ] flowers
-- [ ] meats
 - [ ] significant part of French cuisin is cheese
-- [ ] fashion boutiques
 - [X] window displays showcasing
-- [ ] independent bookstores (librairies)
-- [ ] antique furniture
-- [ ] storefronts with inviting menus displayed on chalkboards
-- [ ] beautifully packaged sweets
-- [ ] chocolateries
+- [X] independent bookstores (librairies)
+- [X] antique furniture
+- [X] storefronts with inviting menus displayed on chalkboards
  
 
  # Spain
