@@ -40,4 +40,8 @@ The United States is a diverse and culturally rich country, and its storefronts 
 
 These cultural elements associated with U.S. storefronts reflect the country's diversity, entrepreneurial spirit, and evolving consumer preferences, making them an integral part of American culture and commerce.
 
+## Reference images
+![Alt text](stock-photo-new-york-city-usa-june-people-sitting-outside-a-trendy-hipster-cafe-in-brooklyn-1973138027.jpg)
+![Alt text](924-3p1-066c.webp)
+
 [**<< Go back**](../../Task%20flow.md)

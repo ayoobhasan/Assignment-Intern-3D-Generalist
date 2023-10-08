@@ -40,4 +40,11 @@ Japan has a rich and unique cultural heritage, and its storefronts often reflect
 
 These cultural elements associated with Japanese storefronts offer a glimpse into the country's deep-rooted traditions, culinary diversity, and appreciation for craftsmanship, all of which contribute to the unique charm of Japan's commercial spaces.
 
+## Reference images
+
+![Alt text](download.jpeg)
+![Alt text](f37bbe13dd8f5bc1477b40478da91b83.jpg)
+![Alt text](marion-de-l-kissaten3.jpg)
+![Alt text](photo-1480796927426-f609979314bd.jpeg)
+![Alt text](photo-1513649718256-1a7162666bad.jpeg)
 [**<< Go back**](../../Task%20flow.md)

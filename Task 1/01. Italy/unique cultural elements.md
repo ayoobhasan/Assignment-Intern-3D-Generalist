@@ -32,4 +32,11 @@ Italy is known for its rich cultural heritage, and this is reflected in various 
 
 These cultural elements associated with Italian storefronts contribute to the unique and charming atmosphere of Italy's towns and cities, making them a delight to explore and experience.
 
+## Reference images
+![Alt text](700-08713438en_Masterfile.jpg)
+
+![Alt text](italian-deli-shop-front-lucca-italy-EWG7P4.jpg)
+
+![Alt text](traditional-grocery-storefront-at-campo-de-fiori-square-rome-lazio-italy-europe-MA2N8G.jpg)
+
 [**<< Go back**](../../Task%20flow.md)

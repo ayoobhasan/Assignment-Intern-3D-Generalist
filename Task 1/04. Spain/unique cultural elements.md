@@ -39,4 +39,9 @@ Spain has a rich and diverse cultural heritage, and its storefronts reflect a un
 
 These cultural elements associated with Spanish storefronts provide a glimpse into the country's diverse regional traditions, culinary delights, and artisanal craftsmanship, making them an integral part of the Spanish cultural experience.
 
+## Reference images
+![Alt text](58a262d60cc6e4ffc237892a7733626d.jpg)
+![Alt text](IMAGE_MADRID.png)
+![Alt text](stock-photo-barcelona-spain-june-storefront-of-limited-edition-sneakers-shop-in-vintage-style-of-269256569.jpg)
+
 [**<< Go back**](../../Task%20flow.md)

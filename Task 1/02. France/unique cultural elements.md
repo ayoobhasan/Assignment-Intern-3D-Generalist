@@ -34,4 +34,10 @@ France is renowned for its rich cultural heritage, and many unique elements asso
 
 These cultural elements associated with French storefronts contribute to the country's unique and sophisticated ambiance, making it a captivating destination for travelers and a source of pride for its residents.
 
+## Reference images
+
+![Alt text](64986d8a7bd271dcea9e6829a666d270.jpg)
+![Alt text](colorful-green-shutters-on-fancy-windows-on-red-wall-PT2AB6.jpg)
+![Alt text](storefront.jpg)
+
 [**<< Go back**](../../Task%20flow.md)
