@@ -53,3 +53,5 @@
 - [X] Package all project files, including 3D models, renders, animations.
 - [ ] Prepare a clear and concise cover letter or email for submission.
 - [X] Submit the complete project to PixelSprout according to their specified guidelines and deadlines.
+
+[animation file](link)
